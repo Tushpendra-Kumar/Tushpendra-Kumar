@@ -14,12 +14,12 @@
 
 <!-- Quick Navigation Pill Bar -->
 <p align="center">
-  <a href="https://codebytushu.com"><img src="https://img.shields.io/badge/Platform-CodeByTushu-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Platform"/></a>
+  <a href="https://codebytushu.com/about-platform.html"><img src="https://img.shields.io/badge/Platform-About%20CodeByTushu-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="About Platform"/></a>
   <a href="https://codebytushu.com/Leetcode/"><img src="https://img.shields.io/badge/DSA%20Hub-LeetCode%20Solutions-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://www.youtube.com/@codebytushu"><img src="https://img.shields.io/badge/YouTube-CodeByTushu-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/></a>
   <a href="https://codebytushu.com/blogs/index.php"><img src="https://img.shields.io/badge/Blogs-Tech%20Articles-10b981?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blogs"/></a>
   <a href="https://codebytushu.com/courses/"><img src="https://img.shields.io/badge/Courses-Learning%20Hub-6366f1?style=for-the-badge&logo=udemy&logoColor=white" alt="Courses"/></a>
   <a href="https://codebytushu.com/store/"><img src="https://img.shields.io/badge/Store-Developer%20Merch-ec4899?style=for-the-badge&logo=shopify&logoColor=white" alt="Store"/></a>
+  <a href="https://codebytushu.com/video-editing/"><img src="https://img.shields.io/badge/Creative-Video%20Editing-f97316?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Video Editing"/></a>
   <a href="https://codebytushu.com/Leetcode/donate.php"><img src="https://img.shields.io/badge/Donate-Support%20Work-eab308?style=for-the-badge&logo=kofi&logoColor=black" alt="Donate"/></a>
   <a href="https://codebytushu.com/#support"><img src="https://img.shields.io/badge/Support-Help%20Center-14b8a6?style=for-the-badge&logo=help&logoColor=white" alt="Support"/></a>
 </p>
@@ -30,7 +30,7 @@
 
 Hello and welcome! I am **Tushpendra Kumar**, a passionate **Software Developer**, **Full-Stack Engineer**, and the **Founder of [CodeByTushu](https://codebytushu.com)** based in Noida, Uttar Pradesh, India.
 
-I specialize in building production-ready web architectures, developer tools, and algorithmic solutions that solve real-world problems. With deep hands-on expertise spanning modern frontend frameworks, backend microservices, database design, and cloud deployments, I focus on delivering scalable, maintainable, and high-performance software.
+I specialize in building production-ready web architectures, developer ecosystems, and algorithmic solutions that solve real-world problems. With deep hands-on expertise spanning modern frontend frameworks, backend microservices, database design, and cloud deployments, I focus on delivering scalable, maintainable, and high-performance software.
 
 ### 🌟 Core Highlights & Engineering Focus:
 - 🚀 **Full-Stack Web Engineering:** Building enterprise and consumer applications with **Java, JavaScript, TypeScript, React, Node.js, Express, PHP (MVC), and Python**.
@@ -38,6 +38,44 @@ I specialize in building production-ready web architectures, developer tools, an
 - 🛠️ **System Architecture & Platform Design:** Sole architect and builder behind **[CodeByTushu.com](https://codebytushu.com)** — complete with Google OAuth 2.0 authentication, dynamic CMS, Gemini AI chat microservices, print-on-demand e-commerce store, and educational portals.
 - ⚡ **Observability & Cloud:** Deploying robust observability stacks (Opspulse), AI-driven systems (Job AI), and automated Linux/Docker DevOps pipelines on AWS & GCP.
 - 🤝 **Collaboration & Opportunities:** Open to high-impact Software Engineering roles, freelance architecture projects, open-source initiatives, and technical collaborations.
+
+---
+
+## 🌐 The CodeByTushu Ecosystem & Live Services
+
+As founder and lead engineer of **CodeByTushu**, I've designed and deployed an entire suite of developer-centric portals and digital services:
+
+| Portal & Feature | Direct Production URL | Description & Capabilities |
+|:---|:---|:---|
+| 🏛️ **About Platform** | [**codebytushu.com/about-platform.html**](https://codebytushu.com/about-platform.html) | Discover the complete architectural story, vision, technology stack, and mission behind CodeByTushu. |
+| ⚡ **LeetCode Solutions Portal** | [**codebytushu.com/Leetcode/**](https://codebytushu.com/Leetcode/) | Daily algorithmic challenges solved across **Java, Python, C++, and JavaScript** with $\mathcal{O}(1)$ / minimal memory benchmarks, mathematical proofs, and video walkthroughs. |
+| 📝 **Tech Articles & Blogs** | [**codebytushu.com/blogs/index.php**](https://codebytushu.com/blogs/index.php) | In-depth technical articles covering backend design patterns, web development, algorithm optimization, and interview preparation. |
+| 🎓 **Interactive Courses** | [**codebytushu.com/courses/**](https://codebytushu.com/courses/) | Structured, project-driven programming masterclasses and comprehensive learning paths designed for real-world development. |
+| 🛍️ **Developer Store & Merch** | [**codebytushu.com/store/**](https://codebytushu.com/store/) | Full-stack e-commerce marketplace featuring developer apparel, accessories, shopping cart, and print-on-demand fulfillment. |
+| 🎬 **Video Editing Creative Hub** | [**codebytushu.com/video-editing/**](https://codebytushu.com/video-editing/) | Curated video editing assets, presets, transition packs, and multimedia design resources for content creators and developers. |
+| 💖 **Donation & Community Support** | [**codebytushu.com/Leetcode/donate.php**](https://codebytushu.com/Leetcode/donate.php) | Community contribution gateway to sponsor open-source maintenance, free educational tools, and continuous platform improvements. |
+| 🔒 **Privacy Policy** | [**codebytushu.com/privacy-policy/**](https://codebytushu.com/privacy-policy/) | Complete transparency on user privacy, cookie preferences, and Google OAuth 2.0 credential safety. |
+| ⚖️ **Terms & Conditions** | [**codebytushu.com/terms/**](https://codebytushu.com/terms/) | User terms of service, platform usage rules, and commercial guidelines. |
+| ⚠️ **Disclaimer** | [**codebytushu.com/disclaimer/**](https://codebytushu.com/disclaimer/) | Legal disclosures, educational content advisories, and copyright compliance. |
+| 💬 **Support & Helpdesk** | [**codebytushu.com/#support**](https://codebytushu.com/#support) | Direct support channel for platform queries, feedback, bug reports, and developer inquiries. |
+
+---
+
+## 💖 Support My Work & Open-Source Mission
+
+If my daily LeetCode solutions, open-source repositories, tutorials, or developer tools have helped you in your learning journey, consider supporting the initiative:
+
+<p align="center">
+  <a href="https://codebytushu.com/Leetcode/donate.php">
+    <img src="https://img.shields.io/badge/Sponsor%20via%20CodeByTushu-Donate%20Now-ffc400?style=for-the-badge&logo=kofi&logoColor=black" alt="Donate to CodeByTushu"/>
+  </a>
+  <a href="https://codebytushu.com/Leetcode/donate.php">
+    <img src="https://img.shields.io/badge/Support%20Free%20Education-Fuel%20Open%20Source-ea4335?style=for-the-badge&logo=heart&logoColor=white" alt="Support Open Source"/>
+  </a>
+</p>
+
+> [!NOTE]
+> All contributions directly support server hosting, platform infrastructure, and keeping educational resources **100% free and open for everyone worldwide**.
 
 ---
 
@@ -159,5 +197,6 @@ I'm always open to discussing new software development roles, project ideas, or 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=Tushpendra-Kumar.Tushpendra-Kumar&label=Profile%20Views&labelColor=%231e293b&countColor=%230ea5e9&style=flat-square" alt="Profile Views"/>
   <br><br>
+  <strong>Powered by CodeByTushu</strong> • <em>Innovate. Develop. Succeed.</em><br>
   <sub>Crafted with ❤️ by <strong>Tushpendra Kumar</strong> • Founder of <a href="https://codebytushu.com">CodeByTushu</a></sub>
 </p>
