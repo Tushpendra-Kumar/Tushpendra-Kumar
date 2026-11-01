@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Tushpendra Kumar 👋</h1>
 
 <p align="center">
-  <strong>Software Developer &amp; Open Source Builder | Founder @ <a href="https://codebytushu.com">CodeByTushu</a></strong><br>
-  <em>Building Scalable Web Platforms • High-Performance Systems • Daily DSA Algorithmic Mastery</em>
+  <strong>Software Developer &amp; Full-Stack Engineer | Founder @ <a href="https://codebytushu.com">CodeByTushu</a></strong><br>
+  <em>Designing Scalable Distributed Systems • High-Performance Web Applications • Enterprise Cloud Infrastructure</em>
 </p>
 
 <p align="center">
@@ -15,7 +15,6 @@
 <!-- Quick Navigation Pill Bar -->
 <p align="center">
   <a href="https://codebytushu.com/about-platform.html"><img src="https://img.shields.io/badge/Platform-About%20CodeByTushu-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="About Platform"/></a>
-  <a href="https://codebytushu.com/Leetcode/"><img src="https://img.shields.io/badge/DSA%20Hub-LeetCode%20Solutions-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   <a href="https://codebytushu.com/blogs/index.php"><img src="https://img.shields.io/badge/Blogs-Tech%20Articles-10b981?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blogs"/></a>
   <a href="https://codebytushu.com/courses/"><img src="https://img.shields.io/badge/Courses-Learning%20Hub-6366f1?style=for-the-badge&logo=udemy&logoColor=white" alt="Courses"/></a>
   <a href="https://codebytushu.com/store/"><img src="https://img.shields.io/badge/Store-Developer%20Merch-ec4899?style=for-the-badge&logo=shopify&logoColor=white" alt="Store"/></a>
@@ -26,56 +25,68 @@
 
 ---
 
-## 💫 About Me & Professional Journey
+## 💫 About Me & Engineering Leadership
 
-Hello and welcome! I am **Tushpendra Kumar**, a passionate **Software Developer**, **Full-Stack Engineer**, and the **Founder of [CodeByTushu](https://codebytushu.com)** based in Noida, Uttar Pradesh, India.
+Hello and welcome! I am **Tushpendra Kumar**, a dedicated **Software Developer**, **Full-Stack Engineer**, and the **Founder of [CodeByTushu](https://codebytushu.com)** based in Noida, Uttar Pradesh, India.
 
-I specialize in building production-ready web architectures, developer ecosystems, and algorithmic solutions that solve real-world problems. With deep hands-on expertise spanning modern frontend frameworks, backend microservices, database design, and cloud deployments, I focus on delivering scalable, maintainable, and high-performance software.
+My engineering journey centers on architecting resilient web platforms, production microservices, and modern user-centric interfaces. This personal GitHub account showcases my engineering portfolio, resume projects, enterprise architecture specifications, and open-source system designs.
 
-### 🌟 Core Highlights & Engineering Focus:
-- 🚀 **Full-Stack Web Engineering:** Building enterprise and consumer applications with **Java, JavaScript, TypeScript, React, Node.js, Express, PHP (MVC), and Python**.
-- 🧠 **Algorithmic Problem Solving & DSA:** Consistent algorithmic problem solver with 300+ daily LeetCode challenges solved with $\mathcal{O}(1)$ / minimal memory benchmarks across **Java, Python, C++, and JavaScript**.
-- 🛠️ **System Architecture & Platform Design:** Sole architect and builder behind **[CodeByTushu.com](https://codebytushu.com)** — complete with Google OAuth 2.0 authentication, dynamic CMS, Gemini AI chat microservices, print-on-demand e-commerce store, and educational portals.
-- ⚡ **Observability & Cloud:** Deploying robust observability stacks (Opspulse), AI-driven systems (Job AI), and automated Linux/Docker DevOps pipelines on AWS & GCP.
-- 🤝 **Collaboration & Opportunities:** Open to high-impact Software Engineering roles, freelance architecture projects, open-source initiatives, and technical collaborations.
+### 🌟 Core Technical Competencies:
+- 🚀 **Full-Stack Engineering:** High-performance web applications using **Java, JavaScript, TypeScript, React, Node.js, Express, PHP (Custom MVC), and Python**.
+- 🛠️ **System Architecture & Platform Design:** Designed and engineered the entire **[CodeByTushu](https://codebytushu.com)** ecosystem — featuring Google OAuth 2.0 authentication, dynamic content CMS, context-aware Gemini AI microservices, print-on-demand e-commerce, and high-speed asset pipelines.
+- ⚡ **Observability & DevOps Automation:** Engineering real-time telemetry platforms (Opspulse), automated Ansible/Linux server management dashboards, and CI/CD pipelines.
+- 💼 **Resume & Production Projects:** Author of interactive web applications, AI copilots (JobAI), CRM dashboards, and modular RESTful API services.
+- 🤝 **Open to Opportunities:** Actively exploring high-impact Software Development Engineer (SDE) roles, technical collaborations, and engineering leadership initiatives.
+
+---
+
+## 📂 Highlighted Personal & Resume Projects
+
+### 🤖 [JobAi-CodeByTushu](https://github.com/Tushpendra-Kumar/JobAi-CodeByTushu)
+> **Autonomous AI Career Copilot & Recruitment Intelligence SaaS**
+- 🎯 End-to-end career copilot designed to eliminate recruitment friction, streamline ATS resume scoring, and automate application materials.
+- ⚡ Built with **React 19, TypeScript, Tailwind CSS, and Vite**, with automated Netlify CI/CD deployment.
+- 📊 Real-time job match analytics, semantic keyword extraction, and application state pipeline.
+
+### ⚡ [Opspulse-Observability-Platform](https://github.com/Tushpendra-Kumar/Opspulse-Observability-Platform)
+> **Cloud-Native DevOps & System Observability Platform**
+- 📊 Enterprise-grade telemetry dashboard for monitoring web services, server health, system logs, and response latencies.
+- 🔔 Automated alerting thresholds, interactive charting, and incident investigation tools.
+- 🛠️ Built with **JavaScript, Node.js, Tailwind CSS**, and RESTful data aggregation services.
+
+### 📄 [CodeByTushu-Docs](https://github.com/Tushpendra-Kumar/CodeByTushu-Docs)
+> **Official CodeByTushu Platform Specifications & Architecture Documentation**
+- 📖 Architectural specification, database schemas, security models, and developer roadmap guidelines for the CodeByTushu web platform.
+- 🏛️ Complete system blueprints detailing Google OAuth 2.0 auth flows, CMS administration, and API designs.
+
+### 🛒 [Smart-E-Commerce-Platform](https://github.com/Tushpendra-Kumar/Smart-E-Commerce-Platform)
+> **Full-Stack Node.js & Express Online Marketplace**
+- 💳 Complete online retail application with dynamic product management, cart state calculations, and modular Express MVC architecture.
+- 📦 Modular controllers, JSON request parsing, and responsive dark-mode UI.
+
+### 🐧 [Linux-Automation-Dashboard](https://github.com/Tushpendra-Kumar/Linux-Automation-Dashboard)
+> **Python Flask & Ansible Server Automation Web Interface**
+- ⚙️ Automated server provisioning, playbook orchestration, and Linux systemd service controls through a centralized web interface.
+- 📈 Live server resource telemetry checking CPU, memory, and disk utilization.
 
 ---
 
 ## 🌐 The CodeByTushu Ecosystem & Live Services
 
-As founder and lead engineer of **CodeByTushu**, I've designed and deployed an entire suite of developer-centric portals and digital services:
+In addition to my personal engineering projects, I am the founder of **CodeByTushu** — an expansive digital platform providing high-impact developer resources, education, and tools:
 
-| Portal & Feature | Direct Production URL | Description & Capabilities |
+| Portal & Feature | Direct Production URL | Functional Overview |
 |:---|:---|:---|
-| 🏛️ **About Platform** | [**codebytushu.com/about-platform.html**](https://codebytushu.com/about-platform.html) | Discover the complete architectural story, vision, technology stack, and mission behind CodeByTushu. |
-| ⚡ **LeetCode Solutions Portal** | [**codebytushu.com/Leetcode/**](https://codebytushu.com/Leetcode/) | Daily algorithmic challenges solved across **Java, Python, C++, and JavaScript** with $\mathcal{O}(1)$ / minimal memory benchmarks, mathematical proofs, and video walkthroughs. |
-| 📝 **Tech Articles & Blogs** | [**codebytushu.com/blogs/index.php**](https://codebytushu.com/blogs/index.php) | In-depth technical articles covering backend design patterns, web development, algorithm optimization, and interview preparation. |
-| 🎓 **Interactive Courses** | [**codebytushu.com/courses/**](https://codebytushu.com/courses/) | Structured, project-driven programming masterclasses and comprehensive learning paths designed for real-world development. |
-| 🛍️ **Developer Store & Merch** | [**codebytushu.com/store/**](https://codebytushu.com/store/) | Full-stack e-commerce marketplace featuring developer apparel, accessories, shopping cart, and print-on-demand fulfillment. |
-| 🎬 **Video Editing Creative Hub** | [**codebytushu.com/video-editing/**](https://codebytushu.com/video-editing/) | Curated video editing assets, presets, transition packs, and multimedia design resources for content creators and developers. |
-| 💖 **Donation & Community Support** | [**codebytushu.com/Leetcode/donate.php**](https://codebytushu.com/Leetcode/donate.php) | Community contribution gateway to sponsor open-source maintenance, free educational tools, and continuous platform improvements. |
-| 🔒 **Privacy Policy** | [**codebytushu.com/privacy-policy/**](https://codebytushu.com/privacy-policy/) | Complete transparency on user privacy, cookie preferences, and Google OAuth 2.0 credential safety. |
+| 🏛️ **About Platform** | [**codebytushu.com/about-platform.html**](https://codebytushu.com/about-platform.html) | Discover the architectural roadmap, founder vision, and platform mission. |
+| 📝 **Tech Articles & Blogs** | [**codebytushu.com/blogs/index.php**](https://codebytushu.com/blogs/index.php) | In-depth technical articles covering backend design patterns, database optimization, and web security. |
+| 🎓 **Interactive Courses** | [**codebytushu.com/courses/**](https://codebytushu.com/courses/) | Structured, project-driven programming masterclasses and comprehensive learning paths. |
+| 🛍️ **Developer Store & Merch** | [**codebytushu.com/store/**](https://codebytushu.com/store/) | Full-stack e-commerce marketplace featuring developer apparel, accessories, and digital dev assets. |
+| 🎬 **Video Editing Creative Hub** | [**codebytushu.com/video-editing/**](https://codebytushu.com/video-editing/) | Curated video editing assets, presets, transition packs, and multimedia design resources. |
+| 💖 **Donation & Community Support** | [**codebytushu.com/Leetcode/donate.php**](https://codebytushu.com/Leetcode/donate.php) | Community contribution gateway to sponsor server hosting and keep educational tools free for all. |
+| 🔒 **Privacy Policy** | [**codebytushu.com/privacy-policy/**](https://codebytushu.com/privacy-policy/) | Full transparency on user privacy, cookie preferences, and Google OAuth 2.0 credential safety. |
 | ⚖️ **Terms & Conditions** | [**codebytushu.com/terms/**](https://codebytushu.com/terms/) | User terms of service, platform usage rules, and commercial guidelines. |
 | ⚠️ **Disclaimer** | [**codebytushu.com/disclaimer/**](https://codebytushu.com/disclaimer/) | Legal disclosures, educational content advisories, and copyright compliance. |
 | 💬 **Support & Helpdesk** | [**codebytushu.com/#support**](https://codebytushu.com/#support) | Direct support channel for platform queries, feedback, bug reports, and developer inquiries. |
-
----
-
-## 💖 Support My Work & Open-Source Mission
-
-If my daily LeetCode solutions, open-source repositories, tutorials, or developer tools have helped you in your learning journey, consider supporting the initiative:
-
-<p align="center">
-  <a href="https://codebytushu.com/Leetcode/donate.php">
-    <img src="https://img.shields.io/badge/Sponsor%20via%20CodeByTushu-Donate%20Now-ffc400?style=for-the-badge&logo=kofi&logoColor=black" alt="Donate to CodeByTushu"/>
-  </a>
-  <a href="https://codebytushu.com/Leetcode/donate.php">
-    <img src="https://img.shields.io/badge/Support%20Free%20Education-Fuel%20Open%20Source-ea4335?style=for-the-badge&logo=heart&logoColor=white" alt="Support Open Source"/>
-  </a>
-</p>
-
-> [!NOTE]
-> All contributions directly support server hosting, platform infrastructure, and keeping educational resources **100% free and open for everyone worldwide**.
 
 ---
 
@@ -124,43 +135,6 @@ If my daily LeetCode solutions, open-source repositories, tutorials, or develope
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
 </p>
-
-### 🎨 Creative & Design Tools
-<p>
-  <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" alt="Premiere Pro"/>
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
-
----
-
-## 📂 Featured Projects & Systems
-
-### 🤖 [JobAi-CodeByTushu](https://github.com/Tushpendra-Kumar/JobAi-CodeByTushu)
-> **AI-Powered Career Intelligence & Job Matching Platform**
-- 🎯 Automated job application tracking, resume scoring, and intelligent role matching using TypeScript and modern AI APIs.
-- ⚡ Responsive UI with real-time analytics, filtering, and ATS keyword extraction.
-- 🚀 Modern tech stack: TypeScript, React/Node.js, Tailwind CSS, and REST API integration.
-
-### ⚡ [Opspulse-Observability-Platform](https://github.com/Tushpendra-Kumar/Opspulse-Observability-Platform)
-> **Modern System Observability, Health Monitoring & Metrics Aggregator**
-- 📊 Real-time telemetry dashboard for monitoring web services, server health, system logs, and response latencies.
-- 🔔 Automated alerting thresholds, interactive charting, and incident investigation tools.
-- 🛠️ Built with JavaScript, Node.js backend services, dynamic visualizations, and REST endpoints.
-
-### 🌐 [CodeByTushu Web Platform](https://codebytushu.com)
-> **Production Multi-Portal Developer Ecosystem**
-- 🔐 Secure Google OAuth 2.0 & Session-based authentication pipeline.
-- 🤖 Context-aware Gemini AI microservice deployed for real-time developer assistance.
-- 🛍️ Full-featured e-commerce developer store with shopping cart and automated fulfillment.
-- 📚 Educational learning portals for LeetCode algorithmic solutions, programming masterclasses, and blogs.
-
-### 🏆 [Leetcode-Daily](https://github.com/Tushpendra-Kumar/Leetcode-Daily)
-> **Daily Multi-Language Algorithmic Problem Solving Archive**
-- 🌟 Optimized implementations in **Java, Python, C++, and JavaScript**.
-- ⏱️ Every problem features time and space complexity proofs ($\\mathcal{O}(N)$, $\\mathcal{O}(1)$ auxiliary memory).
-- 🎥 Direct sync with CodeByTushu YouTube video explanations.
 
 ---
 
